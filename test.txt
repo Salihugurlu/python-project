@@ -1,1 +1,2 @@
-bazı değişiklikler yaptım test.txt de
+bazı değişiklikler yaptım test.txt 
+ikinci değişikliği yaptım
